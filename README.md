@@ -9,3 +9,6 @@ cd socket.io-sample
 npm install 
 npm start
 ```
+
+tnx for template: [https://bootsnipp.com/snippets/WaEvr](https://bootsnipp.com/snippets/WaEvr)
+
